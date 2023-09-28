@@ -1,7 +1,8 @@
-# docker-whale
+# Web Application (docker-whale)
 
-Run me : `docker run -p80:80 ushamandya/whale-example`
 
-Build me: `docker build -t ushamandya/whale-example .`
+0. Clone Current repo: `git clone https://github.com/NubeEra-Samples/Docker_CICD.git && cd Docker_CICD`
 
-dckr_pat_62KrkgBKjnRw_uk5LRQdgZjro60
+1. Build me: `docker build -t ushamandya/whale-example .`
+
+2. Run me : `docker run -p80:80 ushamandya/whale-example`
